@@ -742,6 +742,10 @@ footer {
   background: var(--black);
 }
 
+.whitebg {
+  background: var(--white);
+}
+
 .cmn-opa input {
   background: rgb(246, 242, 234), 40% !important;
 }
@@ -3974,7 +3978,7 @@ footer {
 }
 
 .footer-section.style3 .footer-widgets-wrapper .list-linkes li a {
-  color: var(--white) !important;
+  color: var(--black) !important;
 }
 
 .footer-section.style3 .footer-widgets-wrapper .list-area .icon {
@@ -3982,7 +3986,7 @@ footer {
 }
 
 .footer-section.style3 .footer-widgets-wrapper .list-area .icon i {
-  color: #3e8aff;
+  color: var(--white);
 }
 
 .footer-section.style3 .footer-ingredient-form {
