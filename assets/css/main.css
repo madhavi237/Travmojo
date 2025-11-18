@@ -5123,7 +5123,7 @@ footer {
 
 .offcanvas__info {
   background: var(--white) none repeat scroll 0 0;
-  border-left: 2px solid var(--p1-clr);
+  border-left: 2px solid var(--p2-clr);
   position: fixed;
   right: 0;
   top: 0;
@@ -5172,7 +5172,7 @@ footer {
   line-height: 40px;
   text-align: center;
   border-radius: 4px;
-  background-color: var(--p1-clr);
+  background-color: var(--p2-clr);
   position: relative;
   z-index: 9;
   cursor: pointer;
