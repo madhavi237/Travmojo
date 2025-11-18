@@ -3421,10 +3421,10 @@ footer {
   background: #121212 !important;
 }
 .footer-section.style3 .footer-widgets-wrapper .list-area .icon i {
-  color: var(--p5-clr);
+  color: #3e8aff;
 }
 .footer-section.style3 .footer-ingredient-form {
-  background: var(--p5-clr);
+  background: #3e8aff;
   padding: 60px 80px;
   display: flex;
   align-items: center;
@@ -3444,10 +3444,10 @@ footer {
 .footer-section.style3 .footer-ingredient-form .form-cmn-style input {
   background: transparent;
   border: unset;
-  color: var(--black);
+  color: var(--white);
 }
 .footer-section.style3 .footer-ingredient-form .form-cmn-style input::placeholder {
-  color: var(--black);
+  color: var(--white);
 }
 @media (max-width: 1399px) {
   .footer-section.style3 .footer-ingredient-form {
