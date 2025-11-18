@@ -2432,7 +2432,11 @@ footer {
 }
 
 .business-thumb-wrap .about-exchange-content .about-display-item {
-  max-width: 300px;
+  padding: 16px;
+  max-width: 400px;
+  background: #fff;
+  border-radius: 16px;
+  margin: 10px;
 }
 
 @media (max-width: 1199px) {
